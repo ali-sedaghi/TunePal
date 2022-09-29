@@ -1,9 +1,13 @@
 # TunePal
 
-Listen, Talk, Love<br />
-We match you to new people with similar taste of music.<br />
-We provide a safe palce for you to talk with new friends.<br />
-Explore new musics and listen to other people top songs.<br />
+Listen, Talk, Love
+
+We match you to new people with similar taste of music.
+
+We provide a safe palce for you to talk with new friends.
+
+Explore new musics and listen to other people top songs.
+
 You can challange your knowledge of songs, artist ...!
 
 
@@ -36,7 +40,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
